@@ -7,6 +7,7 @@ By running as a background service, rigX will ensure your radio is always ready 
 rigX is currently in the planning and development phase. The code is not yet written, and we are looking for collaborators to help bring this project to life. The sections below outline the core goals and desired functionality.  
 
 ## Project Goals  
+  
 **Linux Daemon:** To run silently in the background, ensuring continuous operation.  
 **Hamlib Integration:** To support a vast array of radios and rotators via the Hamlib library.  
 **Persistent Control:** To maintain a connection to your radio, even when client applications are not active.  
@@ -15,9 +16,11 @@ rigX is currently in the planning and development phase. The code is not yet wri
 
 ## Contributing & Collaboration  
 This project is a community effort, and your assistance is greatly appreciated. If you're interested in contributing, we're looking for assistance with:  
+  
 **Code Development:** Building the daemon and its core features.  
 **Documentation:** Writing clear and helpful guides for users and other developers.  
 **Testing:** Ensuring the daemon works reliably across various systems and radio models.  
+  
 If you'd like to help, please feel free to fork the repository, make your changes, and submit a pull request. We ask that all contributions follow the project's goals and licensing.  
 
 ## License  
